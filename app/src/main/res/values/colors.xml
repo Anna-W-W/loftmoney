@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#3574fa</color>
+    <color name="colorPrimaryDark">#3574fa</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="expenseColor">#4A90E2</color>
+    <color name="addItemColor">#ffc107</color>
+    <color name="textColor">#666664</color>
+    <color name="priceColor">#4a90e2</color>
+    <color name="priceColor_2">#7ed321</color>
 </resources>
